@@ -1,0 +1,8 @@
+# FROM TO AMOUNT   (simulated data - not real cryptocurrency)
+A B 500
+A C 200
+B C 100
+C D 300
+D E 150
+E F 100
+F D 50
